@@ -36,7 +36,7 @@ In May 2024, we announced the unification of [Bing Maps for Enterprise](https://
 
 ## Paint 3D
 
-Paint 3D is deprecated and will be removed from the Microsoft Store on November 4, 2024. Existing installations of Paint 3D will continue to work, but the app will no longer be available for download from the Microsoft Store. If you remove the app, you can reinstall it from the Microsoft Store until November 4, 2024. After that date, Paint 3D will no longer be available for download. Paint 3D was preinstalled on some Windows 10 devices, but wasn't preinstalled on Windows 11 devices. Some alternatives to Paint 3D include:
+Paint 3D is deprecated and has been removed from the Microsoft Store on November 4, 2024. Existing installations of Paint 3D will continue to work, but the app is no longer be available for download from the Microsoft Store. If you remove the app, it will no longer be available for download. Paint 3D was preinstalled on some Windows 10 devices running the version 1703 and later, but wasn't preinstalled on Windows 11 devices. Some alternatives to Paint 3D include:
 
 - View and edit 2D images: [Paint](https://apps.microsoft.com/detail/9pcfs5b6t72h) or [Photos](https://apps.microsoft.com/detail/9wzdncrfjbh4)
 - View 3D content: [3D Viewer](https://apps.microsoft.com/detail/9nblggh42ths).
@@ -53,7 +53,7 @@ NTLM v1 is removed starting in Windows 11, version 24H2 and Windows Server 2025.
 
 ## WordPad
 
-WordPad is removed from all editions of Windows starting in Windows 11, version 24H2 and Windows Server 2025. As a result, Windows will no longer have a built-in, default RTF reader. We recommend Microsoft Word for rich text documents like .doc and .rtf and Notepad for plain text documents like .txt. The following binaries will be removed as a result of WordPad removal:
+WordPad is removed from all editions of Windows starting in Windows 11, version 24H2 and Windows Server 2025. As a result, Windows will no longer have a built-in, default RTF reader. We recommend Microsoft Word for rich text documents like .doc and .rtf and Notepad for plain text documents like .txt. The following binaries have been removed as a result of WordPad removal:
 
 - wordpad.exe
 - wordpadfilter.dll
